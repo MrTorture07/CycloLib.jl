@@ -1,5 +1,7 @@
 module CycloLib
 
-# Write your package code here.
+    export CircularGearing
+    include("gear.jl")
+    
 
 end
